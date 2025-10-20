@@ -22,7 +22,7 @@ const NavBar = () => {
           <Link to="/profile">Profile</Link>
         </div>
         <div className="flex justify-center gap-6">
-          <Link className="bg-orange-100" to="/login">Login</Link>
+          <Link className="bg-orange-100 border-r-8" to="/login">Login</Link>
           <Link to="/signup">Sign Up</Link>
         </div>
       </div>
