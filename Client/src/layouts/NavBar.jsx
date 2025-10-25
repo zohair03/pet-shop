@@ -17,7 +17,7 @@ const NavBar = () => {
           </Link>
         </div>
         <div className="flex justify-center gap-6">
-          <Link to="/">Home</Link>
+          <Link to="/home">Home</Link>
           <Link to="/contact-us">Contact Us</Link>
           <Link to="/profile">Profile</Link>
         </div>
